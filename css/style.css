@@ -6,15 +6,7 @@
         height: 300px;
         width: 100%;
         background-size: cover;
-        /*visibility: hidden;*/
         position: absolute;
         left: 0;
         top: 0;
-        /*display: none;*/
-        /*background-image: url(../img/work-1.jpg);*/
     }
-    /*.imgBlock div.active {*/
-    /*visibility: visible;*/
-    /*display: inline-block;*/
-    /*display: none;*/
-    /*}*/
